@@ -1,4 +1,4 @@
-# 🎮 Trivia Quiz Game (C)
+# Trivia Quiz Game (C)
 
 > **A fast-paced, console-based trivia assistant written in C. Test your knowledge, track your performance, and master the command line.**
 
