@@ -101,7 +101,6 @@ This project serves as a practical implementation of:
 ---
 
 ## 🔗 Resources
-* **Repository:** [Trivia Quiz Game (C)](https://github.com/AngelosFikias0/TikiPark)
 * **Documentation:** [C Language Reference](https://en.cppreference.com/w/c)
 
 ---
